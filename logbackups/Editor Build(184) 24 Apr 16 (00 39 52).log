@@ -1,0 +1,316 @@
+BackupNameAttachment=" Build(184) 24 Apr 16 (00 39 52)"  -- used by backup system
+Log Started at Sun Apr 24 00:39:52 2016
+Built on Mar 15 2016 14:54:28
+Running 64 bit Windows version
+Executable: C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\Sandbox.exe
+FileVersion: 5.0.0.184
+ProductVersion: 5.0.0.184
+Added MOD directory <%engineroot%> to CryPak
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 4
+Number of available logical processors: 4
+Total number of system cores: 2
+Number of cores available to process: 2
+ 
+Processor 0:
+  CPU: Intel        Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+  Family: 6, Model: 10, Stepping: 9
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: Intel        Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+  Family: 6, Model: 10, Stepping: 9
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+[Error] [CVARS]: [DUPLICATE] CXConsole::AddCommand(): console command [hmd_recenter_pose] is already registered
+Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<00:39:52> OnSysSpecChange(4)
+<00:39:52> [Warning] Config file VeryHighSpec.cfg not found!
+<00:39:52> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<00:39:52> [Warning] Config file game.cfg not found!
+<00:39:52> [Warning] Config file project.cfg not found!
+<00:39:52> [Warning] Game folder gamezero not found, trying to create an empty one
+<00:39:52> GameDir: GameZero
+<00:39:52> [Warning] Config file game.cfg not found!
+<00:39:52> [Warning] Cannot open Pak file gamezero\gamedata.pak
+<00:39:52> [Warning] Cannot open Pak file gamezero\scripts.pak
+<00:39:52> [Warning] Cannot open Pak file gamezero\textures.pak
+<00:39:52> creating CVarGroups from directory 'gamezero/Config/CVarGroups' ...
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_full.cfg (gamezero\config\cvargroups\sys_spec_full.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_gameeffects.cfg (gamezero\config\cvargroups\sys_spec_gameeffects.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_light.cfg (gamezero\config\cvargroups\sys_spec_light.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_objectdetail.cfg (gamezero\config\cvargroups\sys_spec_objectdetail.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_particles.cfg (gamezero\config\cvargroups\sys_spec_particles.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_physics.cfg (gamezero\config\cvargroups\sys_spec_physics.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_postprocessing.cfg (gamezero\config\cvargroups\sys_spec_postprocessing.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_quality.cfg (gamezero\config\cvargroups\sys_spec_quality.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_shading.cfg (gamezero\config\cvargroups\sys_spec_shading.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_shadows.cfg (gamezero\config\cvargroups\sys_spec_shadows.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_sound.cfg (gamezero\config\cvargroups\sys_spec_sound.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_texture.cfg (gamezero\config\cvargroups\sys_spec_texture.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_textureresolution.cfg (gamezero\config\cvargroups\sys_spec_textureresolution.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_volumetriceffects.cfg (gamezero\config\cvargroups\sys_spec_volumetriceffects.cfg)
+<00:39:52> Loading Config file gamezero/Config/CVarGroups/sys_spec_water.cfg (gamezero\config\cvargroups\sys_spec_water.cfg)
+<00:39:52> creating CVarGroups from directory 'Engine/Config/CVarGroups' ...
+<00:39:52> [Warning] <ThreadConfigInfo>: Active platform identifier string "pc" not found in config "config/engine_core.thread_config".
+<00:39:52> [Warning] <ThreadConfigInfo>: Active platform identifier string "pc" not found in config "config/engine_sandbox.thread_config".
+<00:39:52> Windows 10 64 bit (build 10.0.10586)
+<00:39:52> User name: "Matt"
+<00:39:52> System language: English
+<00:39:52> Windows Directory: "C:\WINDOWS"
+<00:39:52> Local time is 00:39:52 04/24/16, system running for 6051 minutes
+<00:39:52> 3982MB physical memory installed, 1834MB available, 134217727MB virtual memory installed, 53 percent of memory in use
+<00:39:52> PageFile usage: 43MB, Working Set: 54MB, Peak PageFile usage: 43MB,
+<00:39:52> Current display mode is 1366x768x32, (Unknown graphics card)
+<00:39:52> Japanese keyboard and 16+ button mouse installed
+<00:39:52> --------------------------------------------------------------------------------
+<00:39:52> [Warning] Config file %USER%/game.cfg not found!
+<00:39:52> Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<00:39:52> OnSysSpecChange(4)
+<00:39:52> Loading Config file VeryHighSpec.cfg (gamezero\config\veryhighspec.cfg)
+<00:39:52> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<00:39:52> [Warning] Config file game.cfg not found!
+<00:39:52> [Warning] Config file project.cfg not found!
+<00:39:52> [Warning] Config file user.cfg not found!
+<00:39:52> Stream Engine Initialization
+<00:39:52> GameName: CRYENGINE
+<00:39:52> BuildTime: Mar 15 2016 14:54:28
+<00:39:52> Physics initialization
+<00:39:52> Initializing CryPhysics...
+<00:39:53> Initializing CryPhysics done, MemUsage=960Kb
+<00:39:53> [Warning] Cannot open Pak file gamezero\localization\english_xml.pak
+<00:39:53> Localized language content(english) not available or modified from the original installation.
+<00:39:53> [Warning] Cannot open Pak file gamezero\localization\english.pak
+<00:39:53> Localized language content(english) not available or modified from the original installation.
+<00:39:53> [Warning] Cannot open Pak file gamezero\localization\english.pak
+<00:39:53> Localized language content(english) not available or modified from the original installation.
+<00:39:53> [Error] <Localization> No localization files found!
+<00:39:53> <Audio>: AudioSystem initialization
+<00:39:53> Initializing CryAudioSystem...
+<00:39:53> Initializing CryAudioImplSDLMixer...
+<00:39:53> <Audio> <0.550>: CryAudioImplSDLMixer loaded
+<00:39:53> Initializing CryAudioImplSDLMixer done, MemUsage=5160Kb
+<00:39:53> Initializing CryAudioSystem done, MemUsage=5824Kb
+<00:39:53> Renderer initialization
+<00:39:53> Initializing CryRenderD3D11...
+<00:39:53> CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+<00:39:53> Initializing CryRenderD3D11 done, MemUsage=3856Kb
+<00:39:53> Initializing Direct3D and creating game window:
+<00:39:53> D3DX_SDK_VERSION = <UNDEFINED>
+<00:39:53> Direct3D driver is creating...
+<00:39:53> Crytek Direct3D driver version 2.00 (Mar 15 2016 <14:54:30>)
+<00:39:53> Creating window called 'CRYENGINE' (1280x720)
+<00:39:53> D3D Adapter: Description: Intel(R) HD Graphics 4000
+<00:39:53> D3D Adapter: Driver version (UMD): 10.18.10.4276
+<00:39:53> D3D Adapter: VendorId = 0x8086
+<00:39:53> D3D Adapter: DeviceId = 0x0166
+<00:39:53> D3D Adapter: SubSysId = 0x21021043
+<00:39:53> D3D Adapter: Revision = 9
+<00:39:53> Active GPUs: 1
+<00:39:53> Using pixel texture formats:
+<00:39:53>   R8G8B8A8S, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R8G8B8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<00:39:53>   A8, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R8, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R8S, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<00:39:53>   R16F, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R32F, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<00:39:53>   R8G8, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R8G8S, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16G16, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16G16S, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16G16F, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R11G11B10F, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R10G10B10A2, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16G16B16A16, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16G16B16A16S, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R16G16B16A16F, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   R32G32B32A32F, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   BC1, mips, sRGB, gather
+<00:39:53>   BC2, mips, sRGB, gather
+<00:39:53>   BC3, mips, sRGB, gather
+<00:39:53>   BC4, mips, gather
+<00:39:53>   BC4S, mips, gather
+<00:39:53>   BC5, mips, gather
+<00:39:53>   BC5S, mips, gather
+<00:39:53>   BC6UH, mips, gather
+<00:39:53>   BC6SH, mips, gather
+<00:39:53>   BC7, mips, sRGB, gather
+<00:39:53>   R9G9B9E5, mips, gather
+<00:39:53>   R32FX8T, mips, gather (comparable)
+<00:39:53>   R32T, mips
+<00:39:53>   R24G8T, mips
+<00:39:53>   R16T, mips
+<00:39:53>   B5G6R5, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   B5G5R5, mips (autogen), blend, RT (multi-sampled), gather
+<00:39:53>   B8G8R8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<00:39:53>   B8G8R8X8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<00:39:53>  Renderer HDR_Scalar: R32F
+<00:39:54>  ****** D3D11 CryRender Stats ******
+<00:39:54>  Driver description: Intel(R) HD Graphics 4000
+<00:39:54>  Feature level: DirectX 11.0
+<00:39:54>  Full stats: 
+<00:39:54>  Rasterizer: Hardware
+<00:39:54>  Current Resolution: 1280x720x32 Windowed
+<00:39:54>  HDR Rendering: FP16
+<00:39:54>  Occlusion queries: Supported
+<00:39:54>  Geometry instancing: Supported
+<00:39:54>  NormalMaps compression : Supported
+<00:39:54>  Gamma control: Hardware
+<00:39:54>  Vertex Shaders version 4.0
+<00:39:54>  Pixel Shaders version 4.0
+<00:39:54>  Used GeomInstancingThreshold is 7
+<00:39:54>  Shader model usage: 'SM.5.0'
+<00:39:54>  *****************************************
+<00:39:54>  
+<00:39:54> Init Shaders
+<00:39:54> Flushing pended shaders...
+<00:39:54> Finished flushing pended shaders...
+<00:39:54> Flushing pended shaders...
+<00:39:54> Finished flushing pended shaders...
+<00:39:54>  General shader quality: VeryHigh
+<00:39:54>  Metal shader quality: VeryHigh
+<00:39:54>  Glass shader quality: VeryHigh
+<00:39:54>  Vegetation shader quality: VeryHigh
+<00:39:54>  Ice shader quality: VeryHigh
+<00:39:54>  Terrain shader quality: VeryHigh
+<00:39:54>  Shadow shader quality: VeryHigh
+<00:39:54>  Water shader quality: High
+<00:39:54>  FX shader quality: VeryHigh
+<00:39:54>  PostProcess shader quality: VeryHigh
+<00:39:54>  HDR shader quality: VeryHigh
+<00:39:54>  Sky shader quality: VeryHigh
+<00:39:54> Render quality: VeryHigh
+<00:39:54> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<00:39:54> Init textures management (32 Mb of video memory is available)...
+<00:39:54>   Enabling of textures streaming...
+<00:39:54>   Using 512 Mb of textures pool for streaming...
+<00:39:54>   Video textures: Atlas clouds max size: 24 Mb
+<00:39:54>   Video textures: Atlas sprites max size: 32 Mb
+<00:39:54>   Video textures: Dynamic managed max size: 80 Mb
+<00:39:54>   Reloading all textures...
+<00:39:54>   Finished reloading textures...
+<00:39:54>   Finished initializing textures streaming...
+<00:39:55> Initialized hardware mouse (game is allowed to confine mouse to window)
+<00:39:55> Using Scaleform GFx 3.3.94
+<00:39:55>   Using dynamic pool
+<00:39:55> Font initialization
+<00:39:55> Initializing CryFont...
+<00:39:55> Using FreeType 2.5.5
+<00:39:55> Initializing CryFont done, MemUsage=324Kb
+<00:39:59> *** Init system render resources ***
+<00:39:59> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<00:39:59> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<00:39:59> Network initialization
+<00:39:59> Initializing CryNetwork...
+<00:39:59> [LagProfiles] Could not load "". 6 default profiles activated.
+<00:39:59> [Warning] XML reader: Can't open file (Scripts/Network/Scheduler.xml)
+<00:39:59> [net] Socket IO management: External [iocp], Internal [iocp]
+<00:39:59> network hostname: Matts-Computer
+<00:39:59>   ip:192.168.1.11
+<00:39:59> [Network Version]: PROFILE DEVELOPMENT BUILD
+<00:39:59> Initializing CryNetwork done, MemUsage=2420Kb
+<00:39:59> Online initialization
+<00:39:59> Initializing CryOnline...
+<00:39:59> DLL Failed to load, error code: 7E
+<00:39:59> Lobby initialization
+<00:39:59> Initializing CryLobby...
+<00:39:59> Initializing CryLobby done, MemUsage=452Kb
+<00:39:59> MovieSystem initialization
+<00:39:59> Initializing CryMovie...
+<00:39:59> Initializing CryMovie done, MemUsage=568Kb
+<00:39:59> Console initialization
+<00:39:59> Time initialization
+<00:39:59> Input initialization
+<00:39:59> Initializing CryInput...
+<00:39:59> Initializing DirectInput
+<00:39:59> Initializing Keyboard
+<00:39:59> Initializing mouse
+<00:39:59> Initializing CryInput done, MemUsage=1360Kb
+<00:39:59> AI initialization
+<00:39:59> Initializing CryAISystem...
+<00:40:00> Initializing CryAISystem done, MemUsage=1252Kb
+<00:40:00>  
+<00:40:00> con_debug=0 [  ]
+<00:40:00> con_display_last_messages=0 [  ]
+<00:40:00> con_line_buffer_size=1000 [  ]
+<00:40:00> con_restricted=0 [ RESTRICTEDMODE ]
+<00:40:00> con_showonload=0 [  ]
+<00:40:00>  
+<00:40:00> con_debug=0 [  ]
+<00:40:00> con_display_last_messages=0 [  ]
+<00:40:00> con_line_buffer_size=1000 [  ]
+<00:40:00> con_restricted=0 [ RESTRICTEDMODE ]
+<00:40:00> con_showonload=0 [  ]
+<00:40:00>  
+<00:40:00> con_debug=0 [  ]
+<00:40:00>  
+<00:40:00> con_debug=0 [  ]
+<00:40:00> Initializing Animation System
+<00:40:00> Initializing CryAnimation...
+<00:40:00> Initializing CryAnimation done, MemUsage=2204Kb
+<00:40:00> Initializing 3D Engine
+<00:40:00> Initializing Cry3DEngine...
+<00:40:00> Sky light: Optical lookup tables loaded off disc.
+<00:40:00> Initializing Cry3DEngine done, MemUsage=21308Kb
+<00:40:00> Script System Initialization
+<00:40:00> Initializing CryScriptSystem...
+<00:40:00> [Warning] [Lua Error] Failed to load script file scripts/common.lua
+<00:40:00> Initializing CryScriptSystem done, MemUsage=776Kb
+<00:40:00> Entity system initialization
+<00:40:00> Initializing CryEntitySystem...
+<00:40:00> Initializing CryEntitySystem done, MemUsage=1856Kb
+<00:40:00> LiveCreate initialization
+<00:40:00> LiveCreateHost not created, using NULL implementation.
+<00:40:00> CryMonoBridge initialization
+<00:40:00> Initializing CryMonoBridge...
+<00:40:01> Initializing CryMonoBridge done, MemUsage=900Kb
+<00:40:01> Initializing AI System
+<00:40:01> AI: [AISYSTEM] Initialization started.
+<00:40:01> [Warning] AI: [FactionMap] Failed to load factions from data source!
+<00:40:01> [Warning] XML reader: Can't open file (Scripts/AI/Communication/CommunicationSystemConfiguration.xml)
+<00:40:01> [Warning] AI: Failed to open XML file 'Scripts/AI/Communication/CommunicationSystemConfiguration.xml'...
+<00:40:01> [Warning] [Lua Error] Failed to load script file scripts/ai/aiconfig.lua
+<00:40:01> [Warning] XML reader: Can't open file (Scripts/AI/lookup.xml)
+<00:40:01> Registering CentralInterestManager with EntitySystem
+<00:40:01> [Warning] XML reader: Can't open file (Libs/AITargetStimulusConfig.xml)
+<00:40:01> [Warning] AI: CTargetTrackManager::Init() Warning: Failed to load configuration file 'Libs/AITargetStimulusConfig.xml'
+<00:40:01> AI: [AISYSTEM] Initialization finished.
+<00:40:01> [Warning] XML reader: Can't open file (Scripts/AI/Cover.xml)
+<00:40:01> [Warning] AI: Failed to open XML file 'Scripts/AI/Cover.xml'...
+<00:40:01> [Warning] XML reader: Can't open file (Scripts/AI/Navigation.xml)
+<00:40:01> [Warning] AI: Failed to open XML file 'Scripts/AI/Navigation.xml'...
+<00:40:01> Initializing additional systems
+<00:40:01> Dynamic Response System initialization
+<00:40:01> Initializing CryDynamicResponseSystem.dll...
+<00:40:01> Initializing CryDynamicResponseSystem.dll done, MemUsage=528Kb
+<00:40:01> [Warning] Could not load dialog file gamezero/libs/DynamicResponseSystem/DialogLines/dialoglines.dialog
+<00:40:01> OnSysSpecChange(4)
+<00:40:01> Loading Config file VeryHighSpec.cfg (gamezero\config\veryhighspec.cfg)
+<00:40:01> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<00:40:01> [Warning] Config file game.cfg not found!
+<00:40:01> Current Language: English 
+<00:40:01> Windows 10 10.0 (C:\WINDOWS)
+<00:40:01> Local time is 00:40:01 04/24/16, system running for 6051 minutes
+<00:40:01> 3982MB phys. memory installed, 1860MB paging available
+<00:40:01> Current display mode is 1366x768x32, (Unknown graphics card)
+<00:40:01> Japanese keyboard and 16+ button mouse installed
+<00:40:01> --------------------------------------------------------------------------------
+<00:40:02> sys_dll_game = CryGame
+<00:40:02> sys_game_folder = GameZero
+<00:40:02> sys_localization_folder = localization
+<00:40:02> Failed to load Game DLL "CryGame"
