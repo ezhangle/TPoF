@@ -1,0 +1,624 @@
+BackupNameAttachment=" Build(184) 25 Apr 16 (14 54 39)"  -- used by backup system
+Log Started at Mon Apr 25 14:54:39 2016
+Built on Mar 15 2016 14:54:28
+Running 64 bit Windows version
+Executable: C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\Sandbox.exe
+FileVersion: 5.0.0.184
+ProductVersion: 5.0.0.184
+Added MOD directory <%engineroot%> to CryPak
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 4
+Number of available logical processors: 4
+Total number of system cores: 2
+Number of cores available to process: 2
+ 
+Processor 0:
+  CPU: Intel        Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+  Family: 6, Model: 10, Stepping: 9
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: Intel        Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz
+  Family: 6, Model: 10, Stepping: 9
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+[Error] [CVARS]: [DUPLICATE] CXConsole::AddCommand(): console command [hmd_recenter_pose] is already registered
+Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<14:54:39> OnSysSpecChange(4)
+<14:54:39> [Warning] Config file VeryHighSpec.cfg not found!
+<14:54:39> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<14:54:39> [Warning] Config file game.cfg not found!
+<14:54:39> Loading Config file project.cfg (project.cfg)
+<14:54:39> GameDir: Assets
+<14:54:39> Loading Config file game.cfg (assets\game.cfg)
+<14:54:39> creating CVarGroups from directory 'assets/Config/CVarGroups' ...
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_full.cfg (assets\config\cvargroups\sys_spec_full.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_gameeffects.cfg (assets\config\cvargroups\sys_spec_gameeffects.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_light.cfg (assets\config\cvargroups\sys_spec_light.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_objectdetail.cfg (assets\config\cvargroups\sys_spec_objectdetail.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_particles.cfg (assets\config\cvargroups\sys_spec_particles.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_physics.cfg (assets\config\cvargroups\sys_spec_physics.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_postprocessing.cfg (assets\config\cvargroups\sys_spec_postprocessing.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_quality.cfg (assets\config\cvargroups\sys_spec_quality.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_shading.cfg (assets\config\cvargroups\sys_spec_shading.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_shadows.cfg (assets\config\cvargroups\sys_spec_shadows.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_sound.cfg (assets\config\cvargroups\sys_spec_sound.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_texture.cfg (assets\config\cvargroups\sys_spec_texture.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_textureresolution.cfg (assets\config\cvargroups\sys_spec_textureresolution.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_volumetriceffects.cfg (assets\config\cvargroups\sys_spec_volumetriceffects.cfg)
+<14:54:39> Loading Config file assets/Config/CVarGroups/sys_spec_water.cfg (assets\config\cvargroups\sys_spec_water.cfg)
+<14:54:39> creating CVarGroups from directory 'Engine/Config/CVarGroups' ...
+<14:54:39> [Warning] <ThreadConfigInfo>: Active platform identifier string "pc" not found in config "config/engine_core.thread_config".
+<14:54:39> [Warning] <ThreadConfigInfo>: Active platform identifier string "pc" not found in config "config/engine_sandbox.thread_config".
+<14:54:39> Windows 10 64 bit (build 10.0.10586)
+<14:54:39> User name: "Matt"
+<14:54:39> System language: English
+<14:54:39> Windows Directory: "C:\WINDOWS"
+<14:54:39> Local time is 14:54:39 04/25/16, system running for 8346 minutes
+<14:54:39> 3982MB physical memory installed, 1486MB available, 134217727MB virtual memory installed, 62 percent of memory in use
+<14:54:39> PageFile usage: 44MB, Working Set: 54MB, Peak PageFile usage: 44MB,
+<14:54:39> Current display mode is 1366x768x32, (Unknown graphics card)
+<14:54:39> Japanese keyboard and 16+ button mouse installed
+<14:54:39> --------------------------------------------------------------------------------
+<14:54:39> [Warning] Config file %USER%/game.cfg not found!
+<14:54:39> Loading Config file system.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\system.cfg)
+<14:54:39> OnSysSpecChange(4)
+<14:54:39> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<14:54:39> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<14:54:39> Loading Config file game.cfg (assets\game.cfg)
+<14:54:39> Loading Config file project.cfg (project.cfg)
+<14:54:39> [Warning] Config file user.cfg not found!
+<14:54:39> Stream Engine Initialization
+<14:54:39> GameName: CRYENGINE SDK Example
+<14:54:39> BuildTime: Mar 15 2016 14:54:28
+<14:54:39> Physics initialization
+<14:54:39> Initializing CryPhysics...
+<14:54:39> Initializing CryPhysics done, MemUsage=960Kb
+<14:54:39> [Warning] Cannot open Pak file assets\localization\english_xml.pak
+<14:54:39> Localized language content(english) not available or modified from the original installation.
+<14:54:39> [Warning] Cannot open Pak file assets\localization\english.pak
+<14:54:39> Localized language content(english) not available or modified from the original installation.
+<14:54:39> [Warning] Cannot open Pak file assets\localization\english.pak
+<14:54:39> Localized language content(english) not available or modified from the original installation.
+<14:54:39> [Error] <Localization> No localization files found!
+<14:54:39> <Audio>: AudioSystem initialization
+<14:54:39> Initializing CryAudioSystem...
+<14:54:39> Initializing CryAudioImplSDLMixer...
+<14:54:39> <Audio> <0.158>: CryAudioImplSDLMixer loaded
+<14:54:39> Initializing CryAudioImplSDLMixer done, MemUsage=5488Kb
+<14:54:39> Initializing CryAudioSystem done, MemUsage=6112Kb
+<14:54:39> Renderer initialization
+<14:54:39> Initializing CryRenderD3D11...
+<14:54:39> CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+<14:54:39> Initializing CryRenderD3D11 done, MemUsage=3528Kb
+<14:54:39> Initializing Direct3D and creating game window:
+<14:54:39> D3DX_SDK_VERSION = <UNDEFINED>
+<14:54:39> Direct3D driver is creating...
+<14:54:39> Crytek Direct3D driver version 2.00 (Mar 15 2016 <14:54:30>)
+<14:54:39> Creating window called 'CRYENGINE SDK Example' (1280x720)
+<14:54:39> D3D Adapter: Description: Intel(R) HD Graphics 4000
+<14:54:39> D3D Adapter: Driver version (UMD): 10.18.10.4276
+<14:54:39> D3D Adapter: VendorId = 0x8086
+<14:54:39> D3D Adapter: DeviceId = 0x0166
+<14:54:39> D3D Adapter: SubSysId = 0x21021043
+<14:54:39> D3D Adapter: Revision = 9
+<14:54:39> Active GPUs: 1
+<14:54:39> Using pixel texture formats:
+<14:54:39>   R8G8B8A8S, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R8G8B8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<14:54:39>   A8, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R8, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R8S, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<14:54:39>   R16F, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R32F, mips (autogen), blend, RT (multi-sampled), gather (comparable)
+<14:54:39>   R8G8, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R8G8S, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16G16, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16G16S, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16G16F, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R11G11B10F, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R10G10B10A2, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16G16B16A16, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16G16B16A16S, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R16G16B16A16F, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   R32G32B32A32F, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   BC1, mips, sRGB, gather
+<14:54:39>   BC2, mips, sRGB, gather
+<14:54:39>   BC3, mips, sRGB, gather
+<14:54:39>   BC4, mips, gather
+<14:54:39>   BC4S, mips, gather
+<14:54:39>   BC5, mips, gather
+<14:54:39>   BC5S, mips, gather
+<14:54:39>   BC6UH, mips, gather
+<14:54:39>   BC6SH, mips, gather
+<14:54:39>   BC7, mips, sRGB, gather
+<14:54:39>   R9G9B9E5, mips, gather
+<14:54:39>   R32FX8T, mips, gather (comparable)
+<14:54:39>   R32T, mips
+<14:54:39>   R24G8T, mips
+<14:54:39>   R16T, mips
+<14:54:39>   B5G6R5, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   B5G5R5, mips (autogen), blend, RT (multi-sampled), gather
+<14:54:39>   B8G8R8A8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<14:54:39>   B8G8R8X8, mips (autogen), sRGB, blend, RT (multi-sampled), gather
+<14:54:39>  Renderer HDR_Scalar: R32F
+<14:54:39>  ****** D3D11 CryRender Stats ******
+<14:54:39>  Driver description: Intel(R) HD Graphics 4000
+<14:54:39>  Feature level: DirectX 11.0
+<14:54:39>  Full stats: 
+<14:54:39>  Rasterizer: Hardware
+<14:54:39>  Current Resolution: 1280x720x32 Windowed
+<14:54:39>  HDR Rendering: FP16
+<14:54:39>  Occlusion queries: Supported
+<14:54:39>  Geometry instancing: Supported
+<14:54:39>  NormalMaps compression : Supported
+<14:54:39>  Gamma control: Hardware
+<14:54:39>  Vertex Shaders version 4.0
+<14:54:39>  Pixel Shaders version 4.0
+<14:54:39>  Used GeomInstancingThreshold is 7
+<14:54:39>  Shader model usage: 'SM.5.0'
+<14:54:39>  *****************************************
+<14:54:39>  
+<14:54:39> Init Shaders
+<14:54:39> Flushing pended shaders...
+<14:54:39> Finished flushing pended shaders...
+<14:54:39> Flushing pended shaders...
+<14:54:39> Finished flushing pended shaders...
+<14:54:39>  General shader quality: VeryHigh
+<14:54:39>  Metal shader quality: VeryHigh
+<14:54:39>  Glass shader quality: VeryHigh
+<14:54:39>  Vegetation shader quality: VeryHigh
+<14:54:39>  Ice shader quality: VeryHigh
+<14:54:39>  Terrain shader quality: VeryHigh
+<14:54:39>  Shadow shader quality: VeryHigh
+<14:54:39>  Water shader quality: High
+<14:54:39>  FX shader quality: VeryHigh
+<14:54:39>  PostProcess shader quality: VeryHigh
+<14:54:39>  HDR shader quality: VeryHigh
+<14:54:39>  Sky shader quality: VeryHigh
+<14:54:39> Render quality: VeryHigh
+<14:54:39> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<14:54:39> Init textures management (32 Mb of video memory is available)...
+<14:54:39>   Enabling of textures streaming...
+<14:54:39>   Using 512 Mb of textures pool for streaming...
+<14:54:39>   Video textures: Atlas clouds max size: 24 Mb
+<14:54:39>   Video textures: Atlas sprites max size: 32 Mb
+<14:54:39>   Video textures: Dynamic managed max size: 80 Mb
+<14:54:39>   Reloading all textures...
+<14:54:39>   Finished reloading textures...
+<14:54:39>   Finished initializing textures streaming...
+<14:54:40> Initialized hardware mouse (game is allowed to confine mouse to window)
+<14:54:40> Using Scaleform GFx 3.3.94
+<14:54:40>   Using dynamic pool
+<14:54:40> Font initialization
+<14:54:40> Initializing CryFont...
+<14:54:40> Using FreeType 2.5.5
+<14:54:40> Initializing CryFont done, MemUsage=300Kb
+<14:54:41> *** Init system render resources ***
+<14:54:41> Allocate render buffer for particles (16384 verts, 49152 tris)...
+<14:54:41> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<14:54:41> Network initialization
+<14:54:41> Initializing CryNetwork...
+<14:54:41> [LagProfiles] Could not load "". 6 default profiles activated.
+<14:54:41> [net] Socket IO management: External [iocp], Internal [iocp]
+<14:54:41> network hostname: Matts-Computer
+<14:54:41>   ip:192.168.1.11
+<14:54:41> [Network Version]: PROFILE DEVELOPMENT BUILD
+<14:54:41> Initializing CryNetwork done, MemUsage=2504Kb
+<14:54:41> Online initialization
+<14:54:41> Initializing CryOnline...
+<14:54:41> DLL Failed to load, error code: 7E
+<14:54:41> Lobby initialization
+<14:54:41> Initializing CryLobby...
+<14:54:41> Initializing CryLobby done, MemUsage=448Kb
+<14:54:41> MovieSystem initialization
+<14:54:41> Initializing CryMovie...
+<14:54:41> Initializing CryMovie done, MemUsage=568Kb
+<14:54:41> Console initialization
+<14:54:41> Time initialization
+<14:54:41> Input initialization
+<14:54:41> Initializing CryInput...
+<14:54:41> Initializing DirectInput
+<14:54:41> Initializing Keyboard
+<14:54:41> Initializing mouse
+<14:54:41> Initializing CryInput done, MemUsage=1348Kb
+<14:54:41> AI initialization
+<14:54:41> Initializing CryAISystem...
+<14:54:41> Initializing CryAISystem done, MemUsage=1248Kb
+<14:54:41>  
+<14:54:41> con_debug=0 [  ]
+<14:54:41> con_display_last_messages=0 [  ]
+<14:54:41> con_line_buffer_size=1000 [  ]
+<14:54:41> con_restricted=0 [ RESTRICTEDMODE ]
+<14:54:41> con_showonload=0 [  ]
+<14:54:41>  
+<14:54:41> con_debug=0 [  ]
+<14:54:41> con_display_last_messages=0 [  ]
+<14:54:41> con_line_buffer_size=1000 [  ]
+<14:54:41> con_restricted=0 [ RESTRICTEDMODE ]
+<14:54:41> con_showonload=0 [  ]
+<14:54:41>  
+<14:54:41> con_debug=0 [  ]
+<14:54:41>  
+<14:54:41> con_debug=0 [  ]
+<14:54:41> Initializing Animation System
+<14:54:41> Initializing CryAnimation...
+<14:54:41> Initializing CryAnimation done, MemUsage=2172Kb
+<14:54:41> Initializing 3D Engine
+<14:54:41> Initializing Cry3DEngine...
+<14:54:41> Sky light: Optical lookup tables loaded off disc.
+<14:54:41> Initializing Cry3DEngine done, MemUsage=21336Kb
+<14:54:41> Script System Initialization
+<14:54:41> Initializing CryScriptSystem...
+<14:54:41> [Warning] [Lua Error] Failed to load script file scripts/common.lua
+<14:54:41> Initializing CryScriptSystem done, MemUsage=716Kb
+<14:54:41> Entity system initialization
+<14:54:41> Initializing CryEntitySystem...
+<14:54:41> Initializing CryEntitySystem done, MemUsage=1904Kb
+<14:54:41> LiveCreate initialization
+<14:54:41> LiveCreateHost not created, using NULL implementation.
+<14:54:41> CryMonoBridge initialization
+<14:54:41> Initializing CryMonoBridge...
+<14:54:41> Initializing CryMonoBridge done, MemUsage=920Kb
+<14:54:41> Initializing AI System
+<14:54:41> AI: [AISYSTEM] Initialization started.
+<14:54:41> [Warning] AI: [FactionMap] Failed to load factions from data source!
+<14:54:41> [Warning] XML reader: Can't open file (Scripts/AI/Communication/CommunicationSystemConfiguration.xml)
+<14:54:41> [Warning] AI: Failed to open XML file 'Scripts/AI/Communication/CommunicationSystemConfiguration.xml'...
+<14:54:41> [Warning] [Lua Error] Failed to load script file scripts/ai/aiconfig.lua
+<14:54:41> [Warning] XML reader: Can't open file (Scripts/AI/lookup.xml)
+<14:54:41> Registering CentralInterestManager with EntitySystem
+<14:54:41> [Warning] XML reader: Can't open file (Libs/AITargetStimulusConfig.xml)
+<14:54:41> [Warning] AI: CTargetTrackManager::Init() Warning: Failed to load configuration file 'Libs/AITargetStimulusConfig.xml'
+<14:54:41> AI: [AISYSTEM] Initialization finished.
+<14:54:41> [Warning] XML reader: Can't open file (Scripts/AI/Cover.xml)
+<14:54:41> [Warning] AI: Failed to open XML file 'Scripts/AI/Cover.xml'...
+<14:54:41> [Warning] XML reader: Can't open file (Scripts/AI/Navigation.xml)
+<14:54:41> [Warning] AI: Failed to open XML file 'Scripts/AI/Navigation.xml'...
+<14:54:41> Initializing additional systems
+<14:54:41> Dynamic Response System initialization
+<14:54:41> Initializing CryDynamicResponseSystem.dll...
+<14:54:41> Initializing CryDynamicResponseSystem.dll done, MemUsage=496Kb
+<14:54:41> [Warning] Could not load dialog file assets/libs/DynamicResponseSystem/DialogLines/dialoglines.dialog
+<14:54:41> OnSysSpecChange(4)
+<14:54:41> Loading Config file VeryHighSpec.cfg (assets\config\veryhighspec.cfg)
+<14:54:41> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<14:54:41> Loading Config file game.cfg (assets\game.cfg)
+<14:54:42> Current Language: English 
+<14:54:42> Windows 10 10.0 (C:\WINDOWS)
+<14:54:42> Local time is 14:54:42 04/25/16, system running for 8346 minutes
+<14:54:42> 3982MB phys. memory installed, 1452MB paging available
+<14:54:42> Current display mode is 1366x768x32, (Unknown graphics card)
+<14:54:42> Japanese keyboard and 16+ button mouse installed
+<14:54:42> --------------------------------------------------------------------------------
+<14:54:42> sys_dll_game = Game
+<14:54:42> sys_game_folder = Assets
+<14:54:42> sys_localization_folder = Localization
+<14:54:42> [Warning] XML reader: Can't open file (Libs/Levels/leveltypes.xml)
+<14:54:42> [Warning] XML reader: Can't open file (Libs/FlowNodes/DialogFlowNodeBuffers.xml)
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/Entities/Vehicles/VehicleSystem.lua
+<14:54:42> [Warning] XML reader: Can't open file (Libs/Readability/Faces/Faces.xml)
+<14:54:42> [Warning] XML reader: Can't open file (Libs/Config/Profiles/default/attributes.xml)
+<14:54:42> [Warning] [PlayerProfiles] PlayerProfileImplFS: Cannot load XML file 'Libs/Config/Profiles/default/attributes.xml'
+<14:54:42> [Warning] XML reader: Can't open file (Libs/Config/Profiles/default/actionmaps.xml)
+<14:54:42> [Warning] [PlayerProfiles] PlayerProfileImplFS: Cannot load XML file 'Libs/Config/Profiles/default/actionmaps.xml'
+<14:54:42> [Warning] CPlayerProfile::SerializeXML: No attributes tag 'Attributes' found
+<14:54:42> [Warning] [PlayerProfiles] Cannot load factory default profile 'default'
+<14:54:42> [Warning] [PlayerProfiles] CCryAction::Init: Cannot initialize PlayerProfileManager
+<14:54:42> [Warning] XML reader: Can't open file (Scripts/Network/StatsConfig.xml)
+<14:54:42> Ending game context...
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/Entities/Default/GeomEntity.lua
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/Entities/Anim/MannequinObject.lua
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/Entities/Default/RopeEntity.lua
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/GameRules/SinglePlayer.lua
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/Entities/Vehicles/VehiclePartDetached.lua
+<14:54:42> [Warning] [Lua Error] Failed to load script file Scripts/Entities/Environment/WaterVolume.lua
+<14:54:42> [Warning] XML reader: Can't open file (Libs/GameForceFeedback/ForceFeedbackEffects.xml)
+<14:54:42> [Warning] [ForceFeedback System] Could not load force feedback system data. Invalid XML file 'Libs/GameForceFeedback/ForceFeedbackEffects.xml'! 
+<14:54:42> Initializing default materials...
+<14:54:42> [Warning] XML reader: Can't open file (materials/material_layers_default.mtl)
+<14:54:42> [Warning] XML reader: Can't open file (materials/material_layers_default.mtl)
+<14:54:42> [Warning] XML reader: Can't open file (Libs/UI//TexturePreload.xml)
+<14:54:42> [Warning] [Lua Error] Failed to load script file scripts/main.lua
+<14:54:42> [Warning] [CScriptSystem::BeginCall] Function OnInit not found(check for syntax errors or if the file wasn't loaded)
+<14:54:42> [Warning] 'mat_canopy' undefined surface type, using mat_default ()
+<14:54:42> [Warning] XML reader: Can't open file (libs/materialeffects/materialeffects.xml)
+<14:54:42> [Warning] [MFX] File not found or wrong file type: libs/materialeffects/materialeffects.xml
+<14:54:42> -- FAIL (strcmpi( src.wrapped.c_str(), dst.wrapped.c_str()) == 0): [CryAction]:SCRCRef_Serialization_StoreString_Empty (d:\p4\davidka_win_dx12_open\bintemp\uber_files\cryaction\..\..\..\Code\CryEngine\CryAction\Mannequin\Tests\Test_CRCRef.cpp:59)
+<14:54:42> UnitTesting Finished Tests: 55 Succeeded: 54, Failed: 1, Time: 161.34 ms
+<14:54:42> Loading Config file singleplayer.cfg (assets\config\singleplayer.cfg)
+<14:54:43> [Warning] [Lua Error] Failed to load script file scripts/ai/pathfindProperties.lua
+<14:54:43> AI: [AISYSTEM] Initializing AI Actions.
+<14:54:43> AI: [AISYSTEM] Initializing Smart Objects.
+<14:54:43> [Warning] XML reader: Can't open file (Libs/SmartObjects.xml)
+<14:54:43> [Warning] XML reader: Can't open file (Libs/SmartObjects/Templates/SOTemplates.xml)
+<14:54:43> OnSysSpecChange(2)
+<14:54:43> Loading Config file MedSpec.cfg (assets\config\medspec.cfg)
+<14:54:43> Flushing pended shaders...
+<14:54:43> Finished flushing pended shaders...
+<14:54:44> Flushing pended shaders...
+<14:54:44> Finished flushing pended shaders...
+<14:54:44> Allocating shadow map cache 2810 x 2810: 15.06 MB
+<14:54:44> Allocating shadow map cache 6324 x 6324: 76.28 MB
+<14:54:44> Allocating shadow map cache 4214 x 4214: 33.87 MB
+<14:54:44> Loading Config file %ENGINEROOT%/editor.cfg (c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\editor.cfg)
+<14:54:44> Loading Config file game.cfg (assets\game.cfg)
+<14:54:45> Unloading all previous plugins
+<14:54:45> Loading plugins...
+<14:54:45> Successfully loaded plugin 'CryDesigner', version '1' (GUID: )
+<14:54:45> Successfully loaded plugin 'EditorPhysics', version '1' (GUID: (null))
+<14:54:45> [Warning] XML reader: Can't open file (audio\ace\config.xml)
+<14:54:45> Successfully loaded plugin 'AudioControlsEditor', version '1' (GUID: {DFA4AFF7-2C70-4B29-B736-GRH00040314})
+<14:54:45> Successfully loaded plugin 'QtConsole', version '1' (GUID: {B0E9DE33-C2E3-4506-8B63-B023327156BB})
+<14:54:45> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplFmod.dll' factory pointer (is it a Sandbox plugin?)
+<14:54:45> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplSDLMixer.dll' factory pointer (is it a Sandbox plugin?)
+<14:54:45> Cannot query plugin DLL 'C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\bin\win_x64\EditorPlugins\EditorCryAudioImplWwise.dll' factory pointer (is it a Sandbox plugin?)
+<14:54:45> Successfully loaded plugin 'DynamicResponseSystemEditor', version '1' (GUID: {DFA4AFF7-2C70-4B29-B736-GRH00290515})
+<14:54:45> Successfully loaded plugin 'EditorEnvironment', version '1' (GUID: {800BBFA9-9895-4E81-AB02-7425FD4F5554})
+<14:54:45> Successfully loaded plugin 'ParticleLibrary', version '1' (GUID: (null))
+<14:54:45> Successfully loaded plugin 'TrackView', version '1' (GUID: {7C4EB160-30AC-44C1-92D6-6D4B74B2E96B})
+<14:54:45> FBX plugin: CreatePluginInstance
+<14:54:45> Successfully loaded plugin 'FBX Exporter', version '1' (GUID: {6CD02F95-362C-4ADF-8BAE-87C6342A8027})
+<14:54:45> Successfully loaded plugin 'MeshImporter', version '1' (GUID: {4F68F679-39AD-4BB4-B5E2-8A8DD3020DC1})
+<14:54:45> Started game resource files indexing...
+<14:54:45> [CONSOLE] Executing console command 'exec autoexec.cfg'
+<14:54:45> Executing console batch file (try game,config,root): "autoexec.cfg" not found!
+<14:54:45> [CONSOLE] Executing console command 'exec editor.cfg'
+<14:54:45> Executing console batch file (try game,config,root): "editor.cfg" found in editor.cfg ...
+<14:54:45> ed_MissingAssetResolver=0 [  ]
+<14:54:45> ca_UseIMG_CAF=0 [  ]
+<14:54:45> drs_dialogSubtitles=1 [  ]
+<14:54:45> [CONSOLE] Executing console command 'exec user.cfg'
+<14:54:45> Executing console batch file (try game,config,root): "user.cfg" not found!
+<14:54:45> Loading editor preferences from: C:/Users/Matt/AppData/Roaming/Crytek/CRYENGINE/Settings.ini
+<14:54:45> [Warning] Command 'ui_action.actionSelection_Mask' is not registered.
+<14:54:45> [Warning] Command 'ui_action.actionAIPoint_Pick_Link' is not registered.
+<14:54:45> [Warning] Command 'ui_action.actionAIPoint_Pick_Impass_Link' is not registered.
+<14:54:45> [Warning] Command 'general.fullscreen' is not registered.
+<14:54:45> [Warning] Command 'ui_action.actionTerrain_Flatten' is not registered.
+<14:54:45> [Warning] Command 'ui_action.actionTerrain_Smooth' is not registered.
+<14:54:45> [Warning] Command 'ui_action.actionEnable_file_change_monitoring' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 4' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 3' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 2' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 1' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 5' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 6' is not registered.
+<14:54:45> [Warning] Command 'general.set_config_spec 0' is not registered.
+<14:54:45> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\shading\generic_reflections.tif", to "assets\engineassets\shading\generic_reflections_tmp.dds"
+<14:54:45> Adding for file change notifications: 'assets\'
+<14:54:45> Adding for file change notifications: '.\assets\'
+<14:54:45> [Warning] 'mat_metal' undefined surface type, using mat_default ()
+<14:54:45> [Warning] Texture does not exist [File=textures/defaults/grey.dds]
+<14:54:45> [Warning] Texture does not exist [File=textures/defaults/grey.dds]
+<14:54:45> [Warning] 'mat_metal' undefined surface type, using mat_default ()
+<14:54:45> [Warning] 'mat_metal' undefined surface type, using mat_default (Editor/Objects/mtlobjects)
+<14:54:49> Flushing pended shaders...
+<14:54:49> Finished flushing pended shaders...
+<14:54:49> Flushing pended shaders...
+<14:54:49> Finished flushing pended shaders...
+<14:54:49> Flushing pended shaders...
+<14:54:49> Finished flushing pended shaders...
+<14:54:49> Flushing pended shaders...
+<14:54:49> Finished flushing pended shaders...
+<14:54:49> Remote console listening on: 4600
+<14:54:54> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\shading\thermalvisiongradient.tif", to "assets\engineassets\shading\thermalvisiongradient_tmp.dds"
+<14:54:55> general.open
+<14:54:55> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\texturemsg\shadercompiling.tif", to "assets\engineassets\texturemsg\shadercompiling_tmp.dds"
+<14:54:55> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\texturemsg\shadererror.tif", to "assets\engineassets\texturemsg\shadererror_tmp.dds"
+<14:54:55> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\alienhud_distortionimage.tif", to "assets\engineassets\textures\alienhud_distortionimage_tmp.dds"
+<14:54:56> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\alienhud_noise1.tif", to "assets\engineassets\textures\alienhud_noise1_tmp.dds"
+<14:54:56> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\icons\levelshadercachemiss.tif", to "assets\engineassets\icons\levelshadercachemiss_tmp.dds"
+<14:54:56> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\white_cm.tif", to "assets\engineassets\textures\white_cm_tmp.dds"
+<14:55:02> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\hex_ddn.tif", to "assets\engineassets\textures\hex_ddn_tmp.dds"
+<14:55:02> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple1_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple1_ddn_tmp.dds"
+<14:55:02> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple2_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple2_ddn_tmp.dds"
+<14:55:03> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple3_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple3_ddn_tmp.dds"
+<14:55:03> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple4_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple4_ddn_tmp.dds"
+<14:55:04> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple5_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple5_ddn_tmp.dds"
+<14:55:04> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple6_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple6_ddn_tmp.dds"
+<14:55:04> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple7_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple7_ddn_tmp.dds"
+<14:55:05> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple8_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple8_ddn_tmp.dds"
+<14:55:05> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple9_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple9_ddn_tmp.dds"
+<14:55:05> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple10_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple10_ddn_tmp.dds"
+<14:55:06> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple11_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple11_ddn_tmp.dds"
+<14:55:06> general.open_level_no_prompt 'Assets/levels/example/example.cry'
+<14:55:06> Opening document Assets/levels/example/example.cry
+<14:55:06> Loading from Assets/levels/example/example.cry...
+<14:55:06> Ending game context...
+<14:55:06> Destroying CActionGame instance 000002CE26B8D5A0 (level="")
+<14:55:06> Loading Config file singleplayer.cfg (assets\config\singleplayer.cfg)
+<14:55:06> [Warning] [Lua Error] Failed to load script file Scripts/GameRules/SinglePlayer.lua
+<14:55:06> Loading missions...
+<14:55:06> ---- Start: Load Terrain
+<14:55:06> CRGBLayer::AllocateTiles 1x1 tiles 256 => 256x256 texture
+<14:55:06> allocating editor height map (256x256)*4
+<14:55:06> ---- Start: Loading Surface Types
+<14:55:06> ---- End: Loading Surface Types (0 seconds)
+<14:55:06> ---- Start: Loading Terrain Layers Info
+<14:55:06> Loading layer settings...
+<14:55:06> Loading layer texture (engineassets/textures/grey.dds)...
+<14:55:06>   loaded editor layer 0  name='Default' LayerID=0
+<14:55:06> ---- End: Loading Terrain Layers Info (0 seconds)
+<14:55:06> ---- Start: Load Terrain
+<14:55:06> Constructing 85 terrain nodes (0.0 MB) <14:55:06>  done in 0.00 sec
+<14:55:06> ===== Loading 0 vegetation models =====
+<14:55:06> ===== Loading 0 brush models ===== 
+<14:55:06> ===== Initializing terrain nodes ===== 
+<14:55:06> ===== Loading outdoor instances ===== 
+<14:55:06> ---- End: Load Terrain (0 seconds)
+<14:55:06> ---- Start: Process RGB Terrain Layers
+<14:55:06> ---- End: Process RGB Terrain Layers (0 seconds)
+<14:55:06> CRGBLayer::AllocateTiles 1x1 tiles 256 => 256x256 texture
+<14:55:06> Loading terrain layers for segment 0 ...
+<14:55:06> ---- End: Load Terrain (0 seconds)
+<14:55:06> ---- Start: Game Engine level load
+<14:55:06> Loading map 'assets/levels/example' into engine...
+<14:55:07> ===== Loading Particle Effects =====
+<14:55:07> [Warning] [Lua Error] Failed to load script file scripts/physics.lua
+<14:55:07> ---- End: Game Engine level load (0 seconds)
+<14:55:07> ---- Start: Load MaterialManager
+<14:55:07> ---- End: Load MaterialManager (0 seconds)
+<14:55:07> ---- Start: Load Particles
+<14:55:07> ---- End: Load Particles (0 seconds)
+<14:55:07> ---- Start: Load Flares
+<14:55:07> ---- End: Load Flares (0 seconds)
+<14:55:07> ---- Start: Load GameTokens
+<14:55:07> ---- End: Load GameTokens (0 seconds)
+<14:55:07> Loading View settings...
+<14:55:07> ---- Start: Load Vegetation
+<14:55:07> Loading Vegetation Map...
+<14:55:07> ---- End: Load Vegetation (0 seconds)
+<14:55:07> ---- Start: Reposition Vegetation
+<14:55:07> ---- End: Reposition Vegetation (0 seconds)
+<14:55:07> ---- Start: Updating Surface Types
+<14:55:07> Loading terrain layers for segment 0 ...
+<14:55:07> ---- End: Updating Surface Types (0 seconds)
+<14:55:07> Loading Fog settings...
+<14:55:07> ---- Start: Load Entity Archetypes Database
+<14:55:07> ---- End: Load Entity Archetypes Database (0 seconds)
+<14:55:07> ---- Start: Load Prefabs Database
+<14:55:07> ---- End: Load Prefabs Database (0 seconds)
+<14:55:07> ---- Start: Activating Mission Mission0
+<14:55:07> [Warning] 'mat_metal' undefined surface type, using mat_default ()
+<14:55:07> [Warning] 'mat_metal' undefined surface type, using mat_default ()
+<14:55:07> [Warning] 'mat_metal' undefined surface type, using mat_default (editor/objects/helper_illum)
+<14:55:07> Loading AI data assets/levels/example, Mission0
+<14:55:07> --- AI: Navigation Data Loaded in  0.00 sec
+<14:55:07> Finished Loading AI data in  0.004 secs
+<14:55:07> [Warning] 'mat_water' undefined surface type, using mat_default ()
+<14:55:07> [Warning] 'mat_water' undefined surface type, using mat_default ()
+<14:55:07> [Warning] 'mat_water' undefined surface type, using mat_default (EngineAssets/Materials/Water/Ocean_default)
+<14:55:07> ---- End: Activating Mission Mission0 (0 seconds)
+<14:55:07> ---- Start: Load Level Shader Cache
+<14:55:07> ---- End: Load Level Shader Cache (0 seconds)
+<14:55:07> ---- Start: Post Load
+<14:55:07> ---- End: Post Load (0 seconds)
+<14:55:07> [LevelLoadTime] Level assets/levels/example loaded in 0 seconds
+<14:55:07> ========================= Errors =========================
+<14:55:07>   0) [ 2]	[Engine]	'mat_metal' undefined surface type, using mat_default ()	 	 Object="GameGeomEntity40"
+<14:55:07>   1) [ 1]	[Engine]	'mat_metal' undefined surface type, using mat_default (editor/objects/helper_illum)	 	 Object="GameGeomEntity40"
+<14:55:07>   2) [ 2]	[Engine]	'mat_water' undefined surface type, using mat_default ()	 
+<14:55:07>   3) [ 1]	[Engine]	'mat_water' undefined surface type, using mat_default (EngineAssets/Materials/Water/Ocean_default)	 
+<14:55:07>   4) [ 1]	[Script]	[Lua Error] Failed to load script file scripts/physics.lua	 
+<14:55:07> ========================= End Errors =========================
+<14:55:07> [Warning] 'mat_water' undefined surface type, using mat_default ()
+<14:55:07> SetGlobalState 1->11 'INIT'->'LEVEL_LOAD_TEXTURES' 28.3 seconds
+<14:55:07> -- Presort shaders by states...
+<14:55:07> --- 21 Resources, 1 Resource groups.
+<14:55:07> Requesting textures precache ...
+<14:55:07> -- Precaching textures...
+<14:55:07> Precaching progress: 1
+<14:55:07> Precaching progress: 2
+<14:55:07> Precaching progress: 3
+<14:55:07> Precaching progress: 4
+<14:55:07> Precaching progress: 5
+<14:55:07> [Warning] Texture does not exist [File=engineassets/textures/skys/night/half_moon.dds]
+<14:55:07> Precaching progress: 6
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_12.dds]
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_12.dds]
+<14:55:07> Precaching progress: 7
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_34.dds]
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_34.dds]
+<14:55:07> Precaching progress: 8
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_5.dds]
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_5.dds]
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_grey.dds]
+<14:55:07> [Warning] Texture does not exist [File=textures/defaults/16_grey.dds]
+<14:55:07> Precaching progress: 9
+<14:55:07> Precaching textures done in 0.09 seconds
+<14:55:07> Textures precache done.
+<14:55:07> File access time during level loading: 0.42 seconds
+<14:55:07> [Warning] XML reader: Can't open file (Libs/UI//TexturePreload.xml)
+<14:55:07> -----------------------------------------------------------
+<14:55:07> Successfully opened document Assets/levels/example/
+<14:55:07> Level loading time: 1.04 seconds
+<14:55:07> -----------------------------------------------------------
+<14:55:07> Returned: 
+<14:55:07> Returned: 
+<14:55:07> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple12_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple12_ddn_tmp.dds"
+<14:55:07> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple13_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple13_ddn_tmp.dds"
+<14:55:07> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple14_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple14_ddn_tmp.dds"
+<14:55:07> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple15_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple15_ddn_tmp.dds"
+<14:55:07> Opening terrain\cover.ctc ...
+<14:55:07>   TerrainLayer 0: TexFormat: BC3, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+<14:55:07>   TerrainLayer 1: TexFormat: BC3, SectorTextureSize: 256x256, SectorTextureDataSizeBytes: 65536
+<14:55:07>   RGB multiplier: 1, Texture indices: 5
+<14:55:08> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple16_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple16_ddn_tmp.dds"
+<14:55:08> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple17_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple17_ddn_tmp.dds"
+<14:55:08> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple18_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple18_ddn_tmp.dds"
+<14:55:08> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple19_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple19_ddn_tmp.dds"
+<14:55:09> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple20_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple20_ddn_tmp.dds"
+<14:55:09> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple21_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple21_ddn_tmp.dds"
+<14:55:10> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple22_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple22_ddn_tmp.dds"
+<14:55:11> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple23_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple23_ddn_tmp.dds"
+<14:55:11> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\rain\ripple\ripple24_ddn.tif", to "assets\engineassets\textures\rain\ripple\ripple24_ddn_tmp.dds"
+<14:55:11> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\screenspace\bokeh_pentagon.tif", to "assets\engineassets\screenspace\bokeh_pentagon_tmp.dds"
+<14:55:12> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\nightvis_grad.tif", to "assets\engineassets\textures\nightvis_grad_tmp.dds"
+<14:55:12> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\shading\sonarvisiongradient.tif", to "assets\engineassets\shading\sonarvisiongradient_tmp.dds"
+<14:55:13> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\hex.tif", to "assets\engineassets\textures\hex_tmp.dds"
+<14:55:13> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\hex_rand.tif", to "assets\engineassets\textures\hex_rand_tmp.dds"
+<14:55:14> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\hex_grad.tif", to "assets\engineassets\textures\hex_grad_tmp.dds"
+<14:55:14> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\perlinnoise_sum_small.tif", to "assets\engineassets\textures\perlinnoise_sum_small_tmp.dds"
+<14:55:15> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\textures\fogvolshadowjitter.tif", to "assets\engineassets\textures\fogvolshadowjitter_tmp.dds"
+<14:55:15> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\codecoverage\hit.tif", to "assets\engineassets\codecoverage\hit_tmp.dds"
+<14:55:16> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\codecoverage\pbar.tif", to "assets\engineassets\codecoverage\pbar_tmp.dds"
+<14:55:16> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\codecoverage\unexpected.tif", to "assets\engineassets\codecoverage\unexpected_tmp.dds"
+<14:55:17> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\icons\averagememoryusage.tif", to "assets\engineassets\icons\averagememoryusage_tmp.dds"
+<14:55:17> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\icons\highmemoryusage.tif", to "assets\engineassets\icons\highmemoryusage_tmp.dds"
+<14:55:17> ui_action.actionScale
+<14:55:17> Returned: 
+<14:55:17> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\icons\livepreview.tif", to "assets\engineassets\icons\livepreview_tmp.dds"
+<14:55:18> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\icons\lowmemoryusage.tif", to "assets\engineassets\icons\lowmemoryusage_tmp.dds"
+<14:55:18> Compile texture from "c:\program files (x86)\crytek\cryengine launcher\crytek\cryengine_5.0\engine\engineassets\texturemsg\defaultnouvs.tif", to "assets\engineassets\texturemsg\defaultnouvs_tmp.dds"
+<14:55:19> Compile texture from "assets\textures\cubemaps\example\environmentprobe_cm.tif", to "assets\textures\cubemaps\example\environmentprobe_cm_tmp.dds"
+<14:55:29> [Warning] 'mat_metal' undefined surface type, using mat_default ()
+<14:55:29> [Warning] Texture does not exist [File=textures/defaults/grey.dds]
+<14:55:29> [Warning] Texture does not exist [File=textures/defaults/grey.dds]
+<14:55:29> [Warning] 'mat_metal' undefined surface type, using mat_default ()
+<14:55:29> [Warning] 'mat_metal' undefined surface type, using mat_default (Editor/Objects/mtlobjects)
+<14:55:29> [Warning] XML parser: syntax error at line 1
+<14:55:31> material.assign_current_to_selection
+<14:55:31> Returned: 
+<14:55:49> Compile texture from "assets\entities\buildings\textures\barracksfloor_diff.tif", to "assets\entities\buildings\textures\barracksfloor_diff_tmp.dds"
+<14:56:17> Compile texture from "assets\entities\buildings\textures\barracksfloor_ddn.tif", to "assets\entities\buildings\textures\barracksfloor_ddn_tmp.dds"
+<14:56:25> Compile texture from "assets\entities\buildings\textures\barracksfloor_spec.tif", to "assets\entities\buildings\textures\barracksfloor_spec_tmp.dds"
+<14:57:36> general.open_pane 'Environment Editor'
+<14:57:36> Returned: 
+<15:01:12> general.open_pane 'Environment Editor'
+<15:01:12> Returned: 
+<15:01:29> layout.reset
+<15:01:30> Undo Object Canceled (Undo:38,Redo:0)
+<15:01:30> Returned: 
+<15:01:49> Undo Object Canceled (Undo:38,Redo:0)
+<15:01:53> general.open_pane 'Environment Editor'
+<15:01:53> Returned: 
+<15:01:54> Undo Object Canceled (Undo:38,Redo:0)
+<15:01:56> Undo Object Canceled (Undo:38,Redo:0)
+<15:02:07> Undo Object Canceled (Undo:38,Redo:0)
+<15:03:04> general.clear_selection
+<15:03:04> Returned: 1
+<15:03:04> CSystem::Quit invoked from thread 8100 (main is 8100)
+<15:03:04> BaseInput - Shutting down all force feedback
+<15:03:04> ActionGame - Shutting down all force feedback
+<15:03:04> [Lobby] Terminate service 0 error 4
+<15:03:04> [Lobby] Terminate service 1 error 4
+<15:03:04> Ending game context...
+<15:03:04> Destroying CActionGame instance 000002CE34334550 (level="")
+<15:03:04> Flushing pended shaders...
+<15:03:04> Finished flushing pended shaders...
+<15:03:04> System:Quit
