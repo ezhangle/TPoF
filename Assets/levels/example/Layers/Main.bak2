@@ -25,7 +25,7 @@
      <GraphTokens />
     </FlowGraph>
    </Object>
-   <Object Type="Designer Box" Layer="Main" LayerGUID="{7DC816F2-D365-4BAE-9111-912CED6E8F6A}" Id="{2A6D532A-BCEF-4CBD-AF33-DAF0454D23E3}" Name="Designer Box1" Pos="239.27899,242.04211,5" FloorNumber="-1" Rotate="1,0,0,0" Scale="5.23,5.23,5.23" ColorRGB="16777215" Material="Editor/materials/areasolid" RndFlags="1073741832" StaticObjFlags="0" ViewDistRatio="100">
+   <Object Type="Designer Box" Layer="Main" LayerGUID="{7DC816F2-D365-4BAE-9111-912CED6E8F6A}" Id="{2A6D532A-BCEF-4CBD-AF33-DAF0454D23E3}" Name="Designer Box1" Pos="221.43066,242.04211,5" FloorNumber="-1" Rotate="0.99999809,0,0,0" Scale="15,15,3.920419" ColorRGB="16777215" Material="Editor/materials/areasolid" RndFlags="1073741832" StaticObjFlags="0" ViewDistRatio="100">
     <Brush DesignerModeFlags="0" SubdivisionLevel="0" SubdivisionSmoothingGroup="0" MirrorPlaneNormal="0,0,0" MirrorPlaneDistance="0">
      <Polygon GUID="{3B31B0AC-754B-4C07-A077-001ED4D1269A}" BinaryData="BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAAAA8D8AAAAAAADwPwAAAAAAAAAAAAAAAAAA8D8AAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAgL8AAIC/AACAvwAAgL8AAAAA"/>
      <Polygon GUID="{83830F45-5A71-42C0-AA62-D74357890AC3}" BinaryData="BAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAADwPwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAgL8AAIC/AACAvwAAgL8AAAAA"/>
@@ -159,6 +159,16 @@
      <GraphTokens />
     </FlowGraph>
    </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="{7DC816F2-D365-4BAE-9111-912CED6E8F6A}" Id="{23A8D37B-0035-469C-BB95-52576D7E7321}" Name="Light1" Pos="227.93257,253.86086,14.956643" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="83.3833" Radius="38.125" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows nCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+   </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="{7DC816F2-D365-4BAE-9111-912CED6E8F6A}" Id="{0020457F-1EDC-4301-890D-414B65189B95}" Name="GameGeomEntity33" Pos="268.99451,264.15118,8.8330975" FloorNumber="-1" Rotate="1,0,0,0" Scale="2.743,2.743,2.743" ColorRGB="65535" Material="engineassets/texturemsg/defaultsolids" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GameGeomEntity" HasEntity="1">
     <Properties object_Model="editor/objects/sphere.cgf"/>
     <FlowGraph Description="" Group="" enabled="1" MultiPlayer="ClientServer">
@@ -287,7 +297,7 @@
      <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
     </Properties>
    </Object>
-   <Object Type="Entity" Layer="Main" LayerGUID="{7DC816F2-D365-4BAE-9111-912CED6E8F6A}" Id="{18C163CE-5522-4BA3-9E78-4088E29ED1CC}" Name="GameGeomEntity37" Pos="252.99451,264.15118,8.8330975" FloorNumber="-1" Rotate="1,0,0,0" Scale="2.743,2.743,2.743" ColorRGB="65535" Material="engineassets/texturemsg/defaultsolids" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GameGeomEntity" HasEntity="1">
+   <Object Type="Entity" Layer="Main" LayerGUID="{7DC816F2-D365-4BAE-9111-912CED6E8F6A}" Id="{18C163CE-5522-4BA3-9E78-4088E29ED1CC}" Name="GameGeomEntity37" Pos="231.25949,248.20551,10.303233" FloorNumber="-1" Rotate="0.99999672,0,0,0" Scale="2.743,2.743,2.743" ColorRGB="65535" Material="engineassets/texturemsg/defaultsolids" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" EntityClass="GameGeomEntity" HasEntity="1">
     <Properties object_Model="editor/objects/sphere.cgf"/>
     <FlowGraph Description="" Group="" enabled="1" MultiPlayer="ClientServer">
      <Nodes>
