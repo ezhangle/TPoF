@@ -1,7 +1,9 @@
-<Material MtlFlags="524288" Shader="Illum" GenMask="30000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.01228649,0.01228649,0.01228649" Emittance="0,0,0.45078582,25" Opacity="1" Shininess="225" VoxelCoverage="0" vertModifType="0" LayerAct="1">
+<Material MtlFlags="524288" Shader="Illum" GenMask="30000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.006512091,0.006512091,0.006512091" Emittance="0,0,0.45078582,25" Opacity="1" Shininess="205" VoxelCoverage="0" vertModifType="0" LayerAct="1">
  <Textures>
-  <Texture Map="Diffuse" File="entities/Buildings/Textures/BarracksExteriorWall_diff.tif"/>
-  <Texture Map="Specular" File="entities/Buildings/Textures/BarracksExteriorWall_spec.tif"/>
+  <Texture Map="Diffuse" File="entities/Buildings/Textures/BarracksStripes_diff.tif" IsTileV="0">
+   <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="20" TileV="20"/>
+  </Texture>
+  <Texture Map="Specular" File="entities/Buildings/Textures/BarracksStripes_spec.tif"/>
  </Textures>
  <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
 </Material>
