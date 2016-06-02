@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GC Warning: Removing nonexistent thread 13680
 GC Warning: Removing nonexistent thread 10864
 GC Warning: Removing nonexistent thread 6692
@@ -10,3 +11,13 @@ GC Warning: Removing nonexistent thread 12744
 GC Warning: Removing nonexistent thread 1556
 GC Warning: Removing nonexistent thread 18464
 GC Warning: Removing nonexistent thread 8932
+=======
+GC Warning: Removing nonexistent thread 2120
+GC Warning: Removing nonexistent thread 13684
+GC Warning: Removing nonexistent thread 13528
+GC Warning: Removing nonexistent thread 14180
+GC Warning: Removing nonexistent thread 7896
+GC Warning: Removing nonexistent thread 8496
+GC Warning: Removing nonexistent thread 4380
+GC Warning: Removing nonexistent thread 12760
+>>>>>>> refs/remotes/origin/master
